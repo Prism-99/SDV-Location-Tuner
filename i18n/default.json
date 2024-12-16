@@ -1,0 +1,65 @@
+﻿{
+  //
+  //
+  //  LocationCustomizer strings
+  //
+  // GMCM text
+  "lc.gmcm.advanced": "Show Advanced Settings",
+  //
+  //
+  "lc.no.debris": "Disable Debris Weather   ",
+  "lc.no.lightning": "Disable Lightning       ",
+  "lc.no.frogs": "Disable Frogs            ",
+  "lc.no.crows": "Disable Crows            ",
+  "lc.no.clouds": "Disable Clouds          ",
+  "lc.no.birds": "Disable Birds            ",
+  "lc.no.butterflies": "Disable Butterflies    ",
+  "lc.no.bunnies": "Disable Bunnies        ",
+  "lc.no.squirrels": "Disable Squirrels       ",
+  "lc.no.woodpeckers": "Disable Woodpeckers    ",
+  "lc.no.opossums": "Disable Opossums      ",
+  "lc.no.owls": "Disable Owls           ",
+  "lc.can.build": "Can Build Here          ",
+  "lc.can.build.tt": "Enable Building Here",
+  "lc.drop.default": "Default",
+  "lc.drop.yes": "Yes",
+  "lc.drop.no": "No",
+  "lc.season.none": "None",
+  "lc.season.spring": "Spring",
+  "lc.season.summer": "Summer",
+  "lc.season.fall": "Fall",
+  "lc.season.winter": "Winter",
+  "lc.button.save": "Save",
+  "lc.button.cancel": "Cancel",
+  "lc.seed.season": "Seeds Ignore Season      ",
+  "lc.clay": "Chance for Clay         ",
+  "lc.clay.tt": "Chance for clay (0 never to 1 always, -1 for default)",
+  "lc.dirt.decay": "Daily Dirty Decay Chance",
+  "lc.dirT.decay.tt": "Daily dirt decay rate (0 none to 1 complete, -1 for default)",
+  "lc.max.forage": "Maximum Daily Forage",
+  "lc.max.forage.tt": "Maximum number of forage to try spawning in one day. Default 4 (-1 for default)",
+  "lc.min.forage": "Minimum Daily Forage",
+  "lc.min.forage.tt": "Minimum number of forage to try spawning in one day. Default 1 (-1 for default)",
+  "lc.max.weeds": "Maximum Daily Weeds",
+  "lc.max.weeds.tt": "Maximum number of weeds to spawn in a day. Default 5 (-1 for default)",
+  "lc.min.weeds": "Minimum Daily Weeds",
+  "lc.min.weeds.tt": "Minimum number of weeds to spawn in a day. Defualt 1 (-1 for default)",
+  "lc.first.day": "First Day Weed Multiplier",
+  "lc.first.day.tt": "On the first day of each year, a multiplier to apply to the number of daily weeds spawned. Default 15",
+  "lc.skip.weed": "Skip Weed Growth     ",
+  "lc.tree.planting": "Allow Tree Planting     ",
+  "lc.grass.spread.winter": "Grass Spreads in Winter",
+  "lc.grass.spread": "Enable Grass Spreading",
+  "lc.grass.sur.winter": "Grass Survives in Winter",
+  "lc.grass.sur.winter.tt": "Allows grass to survive in the winter",
+  "lc.giant.crops": "Allow Giant Crops to Grow",
+  "lc.giant.crops.tt": "Enables the chance of Giant Crops",
+  "lc.can.plant": "Can Plant Crops Here",
+  "lc.can.plant.tt": "Enables planting of Crops",
+  "lc.green.spawn": "Allow Green Rain Spawns",
+  "lc.green.spawn.tt": "Allow Green Rain Spawns",
+  "lc.season.override": "Location Season Override",
+  "lc.season.override.tt": "Sets season override for the location"
+
+
+}

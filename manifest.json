@@ -1,0 +1,10 @@
+{
+  "Name": "Location Tuner",
+  "Author": "Prism 99",
+  "Version": "1.0.0",
+  "Description": "A utility for adjusting Location settings.",
+  "UniqueID": "prism99.locTuner",
+  "EntryDll": "LocationTuner.dll",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": []
+}

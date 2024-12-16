@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocationTuner", "LocationTuner.csproj", "{C2AE0FBE-38EF-4914-8F5A-2A7F56EFD04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AE0FBE-38EF-4914-8F5A-2A7F56EFD04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AE0FBE-38EF-4914-8F5A-2A7F56EFD04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AE0FBE-38EF-4914-8F5A-2A7F56EFD04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AE0FBE-38EF-4914-8F5A-2A7F56EFD04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BF79976-1BBF-4D29-A05C-4CB1C0536E3B}
+	EndGlobalSection
+EndGlobal
